@@ -2,7 +2,7 @@
   "Detect_installed": [
     {
       "package": "com.google.android.youtube",
-      "status": true,
+      "status": false,
       "installed_error_message": "..لعدم الدفع.."
     }
   ],
@@ -10,7 +10,7 @@
 
     {
       "package": "com.ahnihoumohub.prjko",
-      "status": true,
+      "status": false,
       "not_installed_error_message": "..تم القفل.."
     }
   ]
